@@ -1,5 +1,5 @@
 {
-  "name": "@h2_demo/maths",
+  "name": "math-prompt",
   "version": "1.0.1",
   "description": "my math",
   "main": "index.js",
