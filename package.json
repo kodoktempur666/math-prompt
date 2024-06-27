@@ -1,0 +1,19 @@
+{
+  "name": "@h2_demo/maths",
+  "version": "1.0.1",
+  "description": "my math",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/kodoktempur666/maths-prompt.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodoktempur666/maths-prompt.git"
+  },
+  "author": "kodoktempur666",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kodoktempur666/maths-prompt/issues"
+  },
+  "homepage": "https://github.com/kodoktempur666/maths-prompt#readme"
+}
